@@ -5,9 +5,8 @@ Fullstack developer
 -------------------
 
 * 🌍  I'm based in Montpellier, France
-* 🖥️  See my portfolio at [Mindev.me](http://mindev.me)
+* 🖥️  See my portfolio at [Pixelio.io](https://pixelio.io)
 * ✉️  You can contact me at [tsflorus@gmail.com](mailto:tsflorus@gmail.com)
-* 🧠  I'm learning Typescript
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
