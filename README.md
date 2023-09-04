@@ -4,10 +4,8 @@ Hi 👋 My name is Thomas
 Fullstack developer
 -------------------
 
-* 🌍  I'm based in Montpellier, France
-* 🖥️  See my portfolio at [Pixelio.io](https://pixelio.io)
-* ✉️  You can contact me at [tsflorus@gmail.com](mailto:tsflorus@gmail.com)
-* 🤝  I'm open to collaborating on interesting projects
+* 🌍  I'm based in Paris, France
+* 🖥️  I'm a fullstack developer at [Fastory](https://fastory.io)
 
 ### Skills
 
