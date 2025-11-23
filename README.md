@@ -5,7 +5,7 @@ Fullstack developer
 -------------------
 
 * 🌍  I'm based in Paris, France
-* 🖥️  I'm a fullstack developer at [Fastory](https://fastory.io)
+* 🖥️  I'm a fullstack developer at [Kraaft](https://kraaft.co)
 
 ### Skills
 
